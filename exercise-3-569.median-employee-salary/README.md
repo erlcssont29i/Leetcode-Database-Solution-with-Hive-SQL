@@ -42,7 +42,7 @@ Write a SQL query to find the median salary of each company. Bonus points if you
 +-----+------------+--------+
 ```
 
-## 2 Hive Solution
+## 2 Create Table and insert into values
 
 ```sql
 create table if not exists leetcode.ex_569_employee
@@ -71,12 +71,9 @@ INSERT INTO table leetcode.ex_569_employee  VALUES
 ('16'   ,'C'          ,'2652'   ),
 ('17'   ,'C'          ,'65'     )
 
--- hive answer
-SELECT a.* FROM
-(select *,
-count()OVER (PARTITION BY company) cnt,
-row_number()OVER (PARTITION BY company ORDER BY salary) as rn 
- from leetcode.ex_569_employee) a 
- where rn between cnt/2 and (cnt/2)+1  
- ; 
 ```
+
+{% hint style="info" %}
+
+{% endhint %}
+

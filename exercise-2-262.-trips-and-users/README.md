@@ -1,6 +1,6 @@
 # Exercise 2：262. Trips and Users
 
-## 2.1 Description
+## 1 Description
 
 Table: `Trips`
 
@@ -101,7 +101,7 @@ On 2013-10-03:
   - The Cancellation Rate is (1 / 2) = 0.50
 ```
 
-## 2.2 Hive Solution
+## 2 Create Table and insert into values
 
 ```sql
 create table if not exists leetcode.ex_262_trips
@@ -142,12 +142,9 @@ INSERT INTO table leetcode.ex_262_users  VALUES
 ('12'       , 'No'     , 'driver' ),
 ('13'       , 'No'     , 'driver' )
 
--- hive answer
-
-SELECT
-a.*,b.client_is_bannd,b.driver_is_bannd
-FROM
-(select  * from leetcode.ex_262_trips) a 
-left join (select from leetcode.ex_262_users where role='client') b ON a.client_id=b.user_id
-left join  (select from leetcode.ex_262_users where role='driver') c ON a.driver_id=c.user_id
 ```
+
+{% hint style="info" %}
+
+{% endhint %}
+
