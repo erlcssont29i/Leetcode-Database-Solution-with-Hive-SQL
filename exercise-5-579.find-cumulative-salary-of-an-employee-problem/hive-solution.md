@@ -1,5 +1,7 @@
 # Hive Solution
 
+## 3.Hive Solution
+
 ```sql
 SELECT 
   id, 
@@ -13,3 +15,4 @@ where rn > 1
 order by id,month desc 
 ;
 ```
+

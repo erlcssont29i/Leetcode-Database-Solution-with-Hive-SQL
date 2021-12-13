@@ -1,5 +1,7 @@
 # Hive Solution
 
+## 3.Hive Solution
+
 ```sql
 SELECT -- * ,
 avg(number)

@@ -11,3 +11,5 @@
   * [Hive Solution](exercise-4-571.find-median-given-frequency-of-numbers/hive-solution.md)
 * [Exercise 5：579.Find Cumulative Salary Of An Employee Problem](exercise-5-579.find-cumulative-salary-of-an-employee-problem/README.md)
   * [Hive Solution](exercise-5-579.find-cumulative-salary-of-an-employee-problem/hive-solution.md)
+* [Exercise 7：615.Average Salary: Departments VS Company](exercise-7-615.average-salary-departments-vs-company/README.md)
+  * [Hive Solution](exercise-7-615.average-salary-departments-vs-company/hive-solution.md)

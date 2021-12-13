@@ -1,5 +1,7 @@
 # Hive Solution
 
+## 3.Hive Solution
+
 ```sql
 SELECT a.* FROM
 (select *,
@@ -9,3 +11,4 @@ row_number()OVER (PARTITION BY company ORDER BY salary) as rn
  where rn between cnt/2 and (cnt/2)+1  
  ; 
 ```
+
