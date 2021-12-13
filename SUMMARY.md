@@ -9,3 +9,5 @@
   * [Hive Solution](exercise-3-569.median-employee-salary/hive-solution.md)
 * [Exercise 4：571.Find Median Given Frequency of Numbers](exercise-4-571.find-median-given-frequency-of-numbers/README.md)
   * [Hive Solution](exercise-4-571.find-median-given-frequency-of-numbers/hive-solution.md)
+* [Exercise 5：579.Find Cumulative Salary Of An Employee Problem](exercise-5-579.find-cumulative-salary-of-an-employee-problem/README.md)
+  * [Hive Solution](exercise-5-579.find-cumulative-salary-of-an-employee-problem/hive-solution.md)
