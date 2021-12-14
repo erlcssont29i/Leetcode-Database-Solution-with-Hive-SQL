@@ -15,3 +15,5 @@
   * [Hive Solution](exercise-7-615.average-salary-departments-vs-company/hive-solution.md)
 * [Exercise 8：618.Students Report By Geography](exercise-8-618.students-report-by-geography/README.md)
   * [Hive Solution](exercise-8-618.students-report-by-geography/hive-solution.md)
+* [Exercise 9：1097.Game Play Analysis V](exercise-9-1097.game-play-analysis-v/README.md)
+  * [Hive Solution](exercise-9-1097.game-play-analysis-v/hive-solution.md)
