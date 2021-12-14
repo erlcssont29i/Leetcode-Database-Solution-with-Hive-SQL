@@ -13,3 +13,5 @@
   * [Hive Solution](exercise-5-579.find-cumulative-salary-of-an-employee-problem/hive-solution.md)
 * [Exercise 7：615.Average Salary: Departments VS Company](exercise-7-615.average-salary-departments-vs-company/README.md)
   * [Hive Solution](exercise-7-615.average-salary-departments-vs-company/hive-solution.md)
+* [Exercise 8：618.Students Report By Geography](exercise-8-618.students-report-by-geography/README.md)
+  * [Hive Solution](exercise-8-618.students-report-by-geography/hive-solution.md)
