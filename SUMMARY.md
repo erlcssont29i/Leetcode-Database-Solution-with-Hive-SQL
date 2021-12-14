@@ -21,3 +21,5 @@
   * [Hive Solution](exercise-10-1127.user-purchase-platform/hive-solution.md)
 * [Exercise 11：1159.Market Analysis II](exercise-11-1159.market-analysis-ii/README.md)
   * [Hive Solution](exercise-11-1159.market-analysis-ii/hive-solution.md)
+* [Exercise 12：1194.Tournament Winners](exercise-12-1194.tournament-winners/README.md)
+  * [Hive Solution](exercise-12-1194.tournament-winners/hive-solution.md)
