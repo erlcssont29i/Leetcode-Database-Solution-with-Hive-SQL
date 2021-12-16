@@ -79,19 +79,19 @@ From 2019-01-06 to 2019-01-06 all tasks succeeded and system state was "succeede
 ## 2.Create Table and insert into values
 
 ```sql
-create table if not exists leetcode.ex_1125_failed
+create table if not exists leetcode.ex_1225_failed
 (fail_date	date) stored as orc ;
 
-INSERT INTO table leetcode.ex_1125_failed VALUES
+INSERT INTO table leetcode.ex_1225_failed VALUES
 ('2018-12-28'), 
 ('2018-12-29'), 
 ('2019-01-04'), 
 ('2019-01-05') ; 
 
-create table if not exists leetcode.ex_1125_succeeded
+create table if not exists leetcode.ex_1225_succeeded
 (success_date	date) stored as orc ;
 
-INSERT INTO table leetcode.ex_1125_succeeded VALUES
+INSERT INTO table leetcode.ex_1225_succeeded VALUES
 ('2018-12-30'), 
 ('2018-12-31'), 
 ('2019-01-01'), 

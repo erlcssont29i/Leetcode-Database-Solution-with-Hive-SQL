@@ -14,11 +14,11 @@ FROM
   row_number()OVER(order by a.ymd ) as rank
   FROM
       (select 'failed' as period_state,fail_date as ymd 
-      from leetcode.ex_1125_failed
+      from leetcode.ex_1225_failed
         where year(fail_date)='2019'
       union all 
       select 'succeeded' as period_state,success_date as ymd 
-      from  leetcode.ex_1125_succeeded
+      from  leetcode.ex_1225_succeeded
         where year(success_date)='2019') a 
   ) x  
   GROUP BY x.period_state,x.rank_parti-rank
