@@ -23,3 +23,5 @@
   * [Hive Solution](exercise-11-1159.market-analysis-ii/hive-solution.md)
 * [Exercise 12：1194.Tournament Winners](exercise-12-1194.tournament-winners/README.md)
   * [Hive Solution](exercise-12-1194.tournament-winners/hive-solution.md)
+* [Exercise 13：1225.Report Contiguous Dates](exercise-13-1225.report-contiguous-dates/README.md)
+  * [Hive Solution](exercise-13-1225.report-contiguous-dates/hive-solution.md)
