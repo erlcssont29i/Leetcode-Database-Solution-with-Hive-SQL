@@ -114,6 +114,6 @@ INSERT INTO table leetcode.ex_1194_matches VALUES
 ```
 
 {% hint style="info" %}
-Test how to use UNION and Window Function, pay attention to the type of UNION
+This Problem test how to use UNION and Window Function, pay attention to the type of UNION.
 {% endhint %}
 
