@@ -100,5 +100,7 @@ INSERT INTO table leetcode.ex_1125_succeeded VALUES
 ('2019-01-06') ;
 ```
 
-> 不是單純用狀態(成功/失敗)分組，需要狀態+?某個不存在的字段)作為一個分組，難點在創造出?字段
+{% hint style="info" %}
+要以狀態(成功/失敗)+<mark style="color:blue;">**"?"**</mark>(某個不存在的字段)作為一個分組對象，難點在如何創造出?字段
+{% endhint %}
 
