@@ -29,3 +29,5 @@
   * [Hive Solution](exercise-15-1369.get-the-second-most-recent-activity/hive-solution.md)
 * [Exercise 17：1412.Find the Quiet Students in All Exams](exercise-17-1412.find-the-quiet-students-in-all-exams/README.md)
   * [Hive Solution](exercise-17-1412.find-the-quiet-students-in-all-exams/hive-solution.md)
+* [Exercise 18：1479. Sales by Day of the Week](exercise-18-1479.-sales-by-day-of-the-week/README.md)
+  * [Hive Solution](exercise-18-1479.-sales-by-day-of-the-week/hive-solution.md)
