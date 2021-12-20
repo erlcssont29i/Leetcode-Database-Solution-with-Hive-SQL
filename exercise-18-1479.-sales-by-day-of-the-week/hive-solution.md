@@ -16,7 +16,7 @@ fROM
 (select * from leetcode.ex_1479_items) a 
 left join 
 (select *, pmod(datediff(order_date, '2012-01-01'), 7)  as day_of_week 
- 			from leetcode.ex_1479_orders) b ON a.item_id=b.item_id
+ 	from leetcode.ex_1479_orders) b ON a.item_id=b.item_id
 group by a.item_category
 ;
 ```
