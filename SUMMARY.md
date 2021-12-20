@@ -27,3 +27,5 @@
   * [Hive Solution](exercise-13-1225.report-contiguous-dates/hive-solution.md)
 * [Exercise 15：1369.Get The Second Most Recent Activity](exercise-15-1369.get-the-second-most-recent-activity/README.md)
   * [Hive Solution](exercise-15-1369.get-the-second-most-recent-activity/hive-solution.md)
+* [Exercise 17：1412.Find the Quiet Students in All Exams](exercise-17-1412.find-the-quiet-students-in-all-exams/README.md)
+  * [Hive Solution](exercise-17-1412.find-the-quiet-students-in-all-exams/hive-solution.md)
