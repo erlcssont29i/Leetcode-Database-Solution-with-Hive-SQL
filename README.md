@@ -18,7 +18,7 @@ This is a list of [LeetCode's Hard Level Database problems](https://leetcode.com
 
 My online course in Hahow platform provides  the big data environment and _HUE_ (Hue is a Web interface for analyzing data with _Apache Hadoop_), you can create a  database (such as leetcode) to store the data for each exercises.
 
-```
+```sql
 create database if not exists leetcode ;
 ```
 
