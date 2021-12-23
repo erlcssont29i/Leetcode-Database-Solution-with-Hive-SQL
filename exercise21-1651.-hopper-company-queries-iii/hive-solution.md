@@ -4,8 +4,8 @@
 
 ```sql
 SELECT 
-		substr(x.yyyymm,6,2) as mm,
-		round((dis1+dis2+dis3)/3,2) as average_ride_distance ,
+    substr(x.yyyymm,6,2) as mm,
+    round((dis1+dis2+dis3)/3,2) as average_ride_distance ,
     round((dur1+dur2+dur3)/3,2) as average_ride_duration
 FROM
 (
