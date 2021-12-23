@@ -2,7 +2,11 @@
 
 ### Introduction
 
-* Leetcode is one of the most well-known online judge platforms that you can use to practice your programming skills by solving coding questions
+
+
+### About leetcode SQL question
+
+* [Leetcode](https://leetcode.com) is one of the most well-known online judge platforms that you can use to practice your programming skills by solving coding questions
 * Enter the Problem page and filter the topic of Database, here are all SQL questions.
 * Problems are three difficulty levels (Easy, Medium, and Hard) , most of the questions need to be paid to unlock.
 
