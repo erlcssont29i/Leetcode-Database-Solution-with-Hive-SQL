@@ -16,7 +16,7 @@
 
 This is a list of [LeetCode's Hard Level Database problems](https://leetcode.com/problemset/database/?difficulty=HARD\&page=1) and solutions with Hive SQL.
 
-My course in Hahow platform provides a big data environment and hive, you can create a new database (such as leetcode) to store the data for each exercises.
+My online course in Hahow platform provides  the big data environment and _HUE_ (Hue is a Web interface for analyzing data with _Apache Hadoop_), you can create a  database (such as leetcode) to store the data for each exercises.
 
 ```
 create database if not exists leetcode ;
