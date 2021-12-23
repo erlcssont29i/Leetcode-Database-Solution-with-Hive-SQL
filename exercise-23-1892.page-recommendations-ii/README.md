@@ -2,7 +2,7 @@
 
 ## 1.Description
 
-able: `Friendship`
+Table: `Friendship`
 
 ```
 +---------------+---------+
