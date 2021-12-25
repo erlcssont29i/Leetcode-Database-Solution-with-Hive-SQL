@@ -2,6 +2,38 @@
 
 ### Introduction
 
+This book provides questions about Database Hard Level on Leetcod and Hive SQL answers. (There are 28 questions in total)&#x20;
+
+Hard level tests the ability of flexible ideas and require familiarity with the following :&#x20;
+
+* Various Hive SQL functions, including Mathematical functions, data functions, string functions...&#x20;
+* Multi-table join, including subquery, JOIN, UNION&#x20;
+* Windows function
+
+I strongly recommend that each question must be considered in-depth, and Query can be run to view the output results. Do not look at the answers directly, otherwise, it will reduce the learning effect.
+
+In addition, the idea of solving the problem is not unique, so the answer is for reference only.
+
+
+
+這本書提供Leetcod上 Database Hard Level的題目及Hive SQL解答，一共28題
+
+Hard Level很考驗綜合運用的能力，你要具備靈活的思路以及熟悉以下查詢用法：
+
+* 各種函數的運用
+* 多表連結，包含子查詢、JOIN、UNION
+* Windows function
+
+即是能高度掌握<入門數據分析 掌握Hive SQL取數能力>課程所有內容
+
+> 本課程已上架Hahow平台，如您對課程有興趣，可點擊[此鏈結](https://hahow.in/cr/andyrockhive)查看課程詳細說明
+
+
+
+強烈建議每道題目需經過思考，並運行Qiery查看輸出結果，勿直接看答案，否則效果將打(骨)折。
+
+另外，解題思路並不唯一，故答案僅供參考。
+
 
 
 ### About leetcode SQL question
@@ -52,3 +84,4 @@ create database if not exists leetcode ;
 |      26     | 1972.First and Last Call On the Same Day                                                                           |
 |      27     | 2004.The Number of Seniors and Juniors to Join the Company                                                         |
 |      28     | 2010.The Number of Seniors and Juniors to Join the Company II                                                      |
+
