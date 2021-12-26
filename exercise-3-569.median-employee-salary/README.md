@@ -74,6 +74,6 @@ INSERT INTO table leetcode.ex_569_employee  VALUES
 ```
 
 {% hint style="info" %}
-
+In statistics and probability theory, the _median_ is the value separating the higher half from the lower half of a data sample. The _Median_ is the "middle" of a sorted list of numbers.
 {% endhint %}
 
