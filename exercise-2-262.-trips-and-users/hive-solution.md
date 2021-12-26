@@ -5,7 +5,7 @@
 ```sql
 SELECT
 request_at,
-count(if(status='cancelled_by_driver',id,NULL))/count(id) as Cancellation_Rate
+round(count(if(status='cancelled_by_driver',id,NULL))/count(id),2) as cancel_rate
 -- a.*,b.client_is_bannd,b.driver_is_bannd
 FROM
 (select  * from leetcode.ex_262_trips 
