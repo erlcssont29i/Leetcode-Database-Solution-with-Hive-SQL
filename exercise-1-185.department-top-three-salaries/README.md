@@ -118,8 +118,8 @@ INSERT INTO table leetcode.ex_185_department VALUES
 ```
 
 {% hint style="info" %}
-According to the exercise's description, we have to think using the sorting of the window function
+According to the exercise's description, we have to think about using the ranking window function. (Because window functions operate on a set of rows and return a single value for each row from the underlying query)
 
-Pay attention to the return result, it requires the **top three unique** salaries for that department but return 4 data for the IT department, which means that the rank is the same for the same salary.&#x20;
+Pay attention to the return result, it requires the **top three unique** salaries for that department but returns 4 data for the IT department, which means that the rank is the same for the same salary.&#x20;
 {% endhint %}
 
