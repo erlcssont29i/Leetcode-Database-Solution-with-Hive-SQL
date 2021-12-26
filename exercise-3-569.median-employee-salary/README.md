@@ -75,5 +75,9 @@ INSERT INTO table leetcode.ex_569_employee  VALUES
 
 {% hint style="info" %}
 In statistics and probability theory, the _median_ is the value separating the higher half from the lower half of a data sample. The _Median_ is the "middle" of a sorted list of numbers.
+
+This problem requires we find which employee's salary is median and what salary is for each company, **NOT calculating the company's median salary.**
 {% endhint %}
+
+
 
