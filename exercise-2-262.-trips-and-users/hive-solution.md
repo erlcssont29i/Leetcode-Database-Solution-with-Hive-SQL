@@ -4,15 +4,21 @@
 
 ```sql
 SELECT
-a.*,b.client_is_bannd,b.driver_is_bannd
+request_at,
+count(if(status='cancelled_by_driver',id,NULL))/count(id) as Cancellation_Rate
+-- a.*,b.client_is_bannd,b.driver_is_bannd
 FROM
-(select  * from leetcode.ex_262_trips) a 
-left join 
+(select  * from leetcode.ex_262_trips 
+    where status <> 'cancelled_by_client') a 
+join 
 (select * from leetcode.ex_262_users 
- where role='client') b ON a.client_id=b.user_id
-left join  
+ where role='client'
+  and banned ='No') b ON a.client_id=b.users_id
+join  
 (select * from leetcode.ex_262_users 
- where role='driver') c ON a.driver_id=c.user_id
+ where role='driver'
+  and banned ='No') c ON a.driver_id=c.users_id
+ group by request_at
  ;
 ```
 
