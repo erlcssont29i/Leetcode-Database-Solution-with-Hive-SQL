@@ -79,7 +79,7 @@ create database if not exists leetcode ;
 |      21     | [1651. Hopper Company Queries III](exercise21-1651.-hopper-company-queries-iii/)                                   |
 |      22     | 1767.Find the Subtasks That Did Not Execute                                                                        |
 |      23     | [1892.Page Recommendations II](exercise-23-1892.page-recommendations-ii/)                                          |
-|      24     | 1917.Leetcodify Friends Recommendations                                                                            |
+|      24     | [1917.Leetcodify Friends Recommendations](exercise-24-1917.leetcodify-friends-recommendations/)                    |
 |      25     | 1919.Leetcodify Similar Friends                                                                                    |
 |      26     | 1972.First and Last Call On the Same Day                                                                           |
 |      27     | 2004.The Number of Seniors and Juniors to Join the Company                                                         |

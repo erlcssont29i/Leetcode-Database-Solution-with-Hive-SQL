@@ -39,3 +39,5 @@
   * [Hive Solution](exercise21-1651.-hopper-company-queries-iii/hive-solution.md)
 * [Exercise 23：1892.Page Recommendations II](exercise-23-1892.page-recommendations-ii/README.md)
   * [Hive Solution](exercise-23-1892.page-recommendations-ii/hive-solution.md)
+* [Exercise 24：1917.Leetcodify Friends Recommendations](exercise-24-1917.leetcodify-friends-recommendations/README.md)
+  * [Hive Solution](exercise-24-1917.leetcodify-friends-recommendations/hive-solution.md)
