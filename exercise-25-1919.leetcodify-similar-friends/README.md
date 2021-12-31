@@ -77,14 +77,10 @@ Result table:
 | 1        | 2        |
 +----------+----------+
 
-- Users 1 and 2 are friends, and they listened to songs 10, 11, and 12 on the 
-same day. They are similar friends.
-- Users 1 and 3 listened to songs 10, 11, and 12 on the same day, but they are
-not friends.
-- Users 2 and 4 are friends, but they did not listen to the same three different 
-songs.
-- Users 2 and 5 are friends and listened to songs 10, 11, and 12, but they
-did not listen to them on the same day.
+Users 1 and 2 are friends, and they listened to songs 10, 11, and 12 on the same day. They are similar friends.
+Users 1 and 3 listened to songs 10, 11, and 12 on the same day, but they are not friends.
+Users 2 and 4 are friends, but they did not listen to the same three different songs.
+Users 2 and 5 are friends and listened to songs 10, 11, and 12, but they did not listen to them on the same day.
 
 ```
 
