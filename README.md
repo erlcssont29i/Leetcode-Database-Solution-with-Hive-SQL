@@ -10,7 +10,7 @@ Hard level tests the ability of flexible ideas and require familiarity with the 
 * Multi-table join, including subquery, JOIN, UNION&#x20;
 * Windows function
 
-I strongly recommend that each question must be considered in-depth, and Query can be run to view the output results. Do not look at the answers directly, otherwise, it will reduce the learning effect.
+I strongly recommend that each question must be considered in-depth, and running Query to view the output results. **Do not** look at the answers directly, otherwise, it will reduce the learning effect.
 
 In addition, the idea of solving the problem is not unique, so the answer is for reference only.
 
@@ -30,7 +30,7 @@ Hard Level很考驗綜合運用的能力，你要具備靈活的思路以及熟�
 
 
 
-強烈建議每道題目需經過思考，並運行Query查看輸出結果，勿直接看答案，否則效果將打(骨)折。
+強烈建議每道題目需經過思考，若一時無法想出一步到位的Query，可先運行片段的Query查看輸出結果，與題目希望的result對比，再思考差異及延伸Query，勿直接看答案，否則學習效果將打(骨)折。
 
 另外，解題思路並不唯一，故答案僅供參考。
 
