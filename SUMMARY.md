@@ -41,3 +41,5 @@
   * [Hive Solution](exercise-23-1892.page-recommendations-ii/hive-solution.md)
 * [Exercise 24：1917.Leetcodify Friends Recommendations](exercise-24-1917.leetcodify-friends-recommendations/README.md)
   * [Hive Solution](exercise-24-1917.leetcodify-friends-recommendations/hive-solution.md)
+* [Exercise 25：1919.Leetcodify Similar Friends](exercise-25-1919.leetcodify-similar-friends/README.md)
+  * [Hive Solution](exercise-25-1919.leetcodify-similar-friends/hive-solution.md)
