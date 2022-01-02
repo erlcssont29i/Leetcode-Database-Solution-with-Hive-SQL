@@ -29,6 +29,8 @@
   * [Hive Solution](exercise-14-1336.the-number-of-transactions-per-visit/hive-solution.md)
 * [Exercise 15：1369.Get The Second Most Recent Activity](exercise-15-1369.get-the-second-most-recent-activity/README.md)
   * [Hive Solution](exercise-15-1369.get-the-second-most-recent-activity/hive-solution.md)
+* [Exercise 16：1384.Total Sales Amount by Year](exercise-16-1384.total-sales-amount-by-year/README.md)
+  * [Hive Solution](exercise-16-1384.total-sales-amount-by-year/hive-solution.md)
 * [Exercise 17：1412.Find the Quiet Students in All Exams](exercise-17-1412.find-the-quiet-students-in-all-exams/README.md)
   * [Hive Solution](exercise-17-1412.find-the-quiet-students-in-all-exams/hive-solution.md)
 * [Exercise 18：1479. Sales by Day of the Week](exercise-18-1479.-sales-by-day-of-the-week/README.md)
