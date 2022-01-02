@@ -68,10 +68,10 @@ INSERT INTO table leetcode.ex_1369_user_activity VALUES
 ```
 
 {% hint style="info" %}
-"Bob only has one record, we just take that one"，Indicates that if the user has only one activity, do not participate in the logical judgment of Most Recent.
+This question requires we find the second most recent activity for each user, while Bob only has one record and just take that one still. It means we have to notice that whether the user's activity count is above 1.
 
 
 
-"Bob only has one record, we just take that one"，表示如果當user只有一個活動，則不要參與Most Recent的邏輯判段
+"Bob only has one record, we just take that one"，表示如果當user只有一個活動，則不要參與second most Recent的判段
 {% endhint %}
 
