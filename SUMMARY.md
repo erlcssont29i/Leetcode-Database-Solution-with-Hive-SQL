@@ -49,3 +49,7 @@
   * [Hive Solution](exercise-25-1919.leetcodify-similar-friends/hive-solution.md)
 * [Exercise 26：1972.First and Last Call On the Same Day](exercise-26-1972.first-and-last-call-on-the-same-day/README.md)
   * [Hive Solution](exercise-26-1972.first-and-last-call-on-the-same-day/hive-solution.md)
+* [Exercise 27：2004.The Number of Seniors and Juniors to Join the Company](exercise-27-2004.the-number-of-seniors-and-juniors-to-join-the-company/README.md)
+  * [Hive Solution](exercise-27-2004.the-number-of-seniors-and-juniors-to-join-the-company/hive-solution.md)
+* [Exercise 28：2010.The Number of Seniors and Juniors to Join the Company II](exercise-28-2010.the-number-of-seniors-and-juniors-to-join-the-company-ii/README.md)
+  * [Hive Solution](exercise-28-2010.the-number-of-seniors-and-juniors-to-join-the-company-ii/hive-solution.md)
