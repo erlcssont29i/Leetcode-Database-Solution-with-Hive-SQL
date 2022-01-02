@@ -22,9 +22,9 @@ CASE when year(period_start)='2018' and  year(period_end)='2018'
         then average_daily_sales*365
     END as total_amount
 from 
-(select * from ex_1384_sales) a 
+(select * from leetcode.ex_1384_sales) a 
 join 
-(select * from ex_1384_product) b on a.product_id=b.product_id
+(select * from leetcode.ex_1384_product) b on a.product_id=b.product_id
 
 UNION ALL
   
@@ -40,9 +40,9 @@ CASE when year(period_start)='2019' and  year(period_end)='2019'
         then average_daily_sales*365
     END as total_amount
 from 
-(select * from ex_1384_sales) a 
+(select * from leetcode.ex_1384_sales) a 
 join 
-(select * from ex_1384_product) b on a.product_id=b.product_id
+(select * from leetcode.ex_1384_product) b on a.product_id=b.product_id
 
 UNION ALL
  
@@ -58,9 +58,9 @@ CASE when year(period_start)='2020' and  year(period_end)='2020'
         then average_daily_sales*365
     END as total_amount
 from 
-(select * from ex_1384_sales) a 
+(select * from leetcode.ex_1384_sales) a 
 join 
-(select * from ex_1384_product) b on a.product_id=b.product_id
+(select * from leetcode.ex_1384_product) b on a.product_id=b.product_id
 		) x 
 			WHERE total_amount is NOT NULL
 ;
