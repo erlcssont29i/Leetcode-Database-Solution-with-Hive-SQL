@@ -43,3 +43,5 @@
   * [Hive Solution](exercise-24-1917.leetcodify-friends-recommendations/hive-solution.md)
 * [Exercise 25：1919.Leetcodify Similar Friends](exercise-25-1919.leetcodify-similar-friends/README.md)
   * [Hive Solution](exercise-25-1919.leetcodify-similar-friends/hive-solution.md)
+* [Exercise 26：1972.First and Last Call On the Same Day](exercise-26-1972.first-and-last-call-on-the-same-day/README.md)
+  * [Hive Solution](exercise-26-1972.first-and-last-call-on-the-same-day/hive-solution.md)
