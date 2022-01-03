@@ -43,6 +43,8 @@
   * [Hive Solution](exercise-20-1645.-hopper-company-queries-ii/hive-solution.md)
 * [Exercise21 ：1651. Hopper Company Queries III](exercise21-1651.-hopper-company-queries-iii/README.md)
   * [Hive Solution](exercise21-1651.-hopper-company-queries-iii/hive-solution.md)
+* [Exercise 22：1767.Find the Subtasks That Did Not Execute](exercise-22-1767.find-the-subtasks-that-did-not-execute/README.md)
+  * [Hive Solution](exercise-22-1767.find-the-subtasks-that-did-not-execute/hive-solution.md)
 * [Exercise 23：1892.Page Recommendations II](exercise-23-1892.page-recommendations-ii/README.md)
   * [Hive Solution](exercise-23-1892.page-recommendations-ii/hive-solution.md)
 * [Exercise 24：1917.Leetcodify Friends Recommendations](exercise-24-1917.leetcodify-friends-recommendations/README.md)

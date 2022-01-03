@@ -131,6 +131,6 @@ INSERT INTO table leetcode.ex_1336_transactions VALUES
 ```
 
 {% hint style="info" %}
-
+In SQL, we create an identity column to auto-generate incremental values by IDENTITY Function while this system function does not exist in Hive. We can create a UDF function([user-defined function](https://docs.cloudera.com/HDPDocuments/HDP3/HDP-3.0.0/using-hiveql/content/hive\_create\_udf.html)) .&#x20;
 {% endhint %}
 
