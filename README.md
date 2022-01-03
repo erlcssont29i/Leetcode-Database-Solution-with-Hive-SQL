@@ -77,7 +77,7 @@ create database if not exists leetcode ;
 |      19     | [1635. Hopper Company Queries I](exercise-19-1635.-hopper-company-queries-i/)                                                               |
 |      20     | [1645. Hopper Company Queries II](exercise-20-1645.-hopper-company-queries-ii/)                                                             |
 |      21     | [1651. Hopper Company Queries III](exercise21-1651.-hopper-company-queries-iii/)                                                            |
-|      22     | 1767.Find the Subtasks That Did Not Execute                                                                                                 |
+|      22     | [1767.Find the Subtasks That Did Not Execute](exercise-22-1767.find-the-subtasks-that-did-not-execute/)                                     |
 |      23     | [1892.Page Recommendations II](exercise-23-1892.page-recommendations-ii/)                                                                   |
 |      24     | [1917.Leetcodify Friends Recommendations](exercise-24-1917.leetcodify-friends-recommendations/)                                             |
 |      25     | [1919.Leetcodify Similar Friends](exercise-25-1919.leetcodify-similar-friends/)                                                             |
